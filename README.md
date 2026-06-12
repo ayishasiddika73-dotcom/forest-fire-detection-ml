@@ -1,18 +1,29 @@
-# Forest Fire Detection using Machine Learning
+# 🌲 Forest Fire Detection System
 
-This project detects forest fire images using a machine learning/deep learning model.
+A smart Forest Fire Detection and Risk Prediction dashboard built using HTML, CSS, JavaScript, and Machine Learning concepts.
 
-## Features
-- Image classification of fire vs no-fire
-- Built using Python and Jupyter Notebook
+## 🚀 Features
+- 🔥 Forest fire risk prediction
+- 🌦️ Weather parameter controls
+- 📅 Month & weekday selection
+- ⚡ Quick presets (Summer, Rainy, Winter)
+- 📊 Model comparison dashboard
+- 🤖 Multiple ML models used
+- 📈 Accuracy metrics display
+- 🎨 Modern dark UI design
 
-## Technologies Used
-- Python
-- NumPy, Pandas
-- Scikit-learn / TensorFlow (depending on your model)
+## 🧠 Machine Learning Models
+- Random Forest Regressor
+- Gradient Boosting Regressor
+- Decision Tree Regressor
+- Linear Regression
 
-## Output
-Achieved good accuracy on test dataset for detecting forest fire images.
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Machine Learning
 
-## Author
-Ayisha Siddika
+## 📸 Screenshot
+![screenshot_forest_fire.png](screenshot.png)
+
