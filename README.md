@@ -24,6 +24,4 @@ A smart Forest Fire Detection and Risk Prediction dashboard built using HTML, CS
 - JavaScript
 - Machine Learning
 
-## 📸 Screenshot
-![screenshot_forest_fire](screenshot.png)
 
